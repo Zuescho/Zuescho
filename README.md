@@ -17,5 +17,3 @@ Nationality: European
 - [Twitter | X.com](https://twitter.com/ZueschoYuno)
 
 
-![signature](https://zuescho.de/images/Z%C3%BCscho.jpg)
-
